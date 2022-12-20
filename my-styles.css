@@ -1,0 +1,97 @@
+.guitar-container {
+    background-color: #ffffff;
+    background-image: url('img/guitar_studio.jpg');
+    background-size: cover;
+    padding: 20px;
+    color: #9b3333;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
+  }
+
+  .homepage-container {
+    background-color: #ffffff;
+    background-image: url('img/notes_bg.jpg');
+    background-size: cover;
+    padding: 20px;
+    color: #9b3333;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
+  }
+  .resume{
+    font-family: fantasy, sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    background-color: rgb(112, 117, 128);
+    background-image: url('img/white_bg.jpg');
+    background-size: cover;
+    padding: 20px;
+    color: #1d1d1d;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block; 
+  }
+  .fourth{
+    background-color: #8c9283;
+    background-image: url('img/notes_bg.jpg');
+    background-size: cover;
+    padding: 20px;
+    color: #9b3333;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
+  }
+  
+  .col-md-6 {
+    font-family:fantasy;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+    font-size: 32px;
+  }
+  .col-md-6_resume{
+    font-family:fantasy;    
+    font-size:20px;
+    font-weight: lighter;
+  }
+  
+  .navbar-brand {
+    font-size: 65px;
+    font-weight: bolder;
+    font-style: italic;
+    color: lavender;
+    padding: 50px; 
+  }
+  
+  #contact-button, #about-button {
+    color: rgb(255, 255, 255);
+    background-color: darkslategrey;
+    border-radius: 50px;
+    font-size: 24px;
+  }
+  .btn.btn-secondary {
+    background-color: darkslategrey;
+    color: rgb(255, 250, 250);
+    border-radius: 60px;
+    font-size: 24px;
+  }
+  
+  .email-container {
+    background-color: rgb(173, 240, 240);
+    opacity: 0,1;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+  }
+
+   footer {
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background: radial-gradient(circle, black, transparent);
+    
+  }
